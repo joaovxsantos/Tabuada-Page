@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(123, 235, 216);
+}
+
+
+div{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+*{
+    text-align: center;
+}
